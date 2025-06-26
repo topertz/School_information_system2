@@ -1,0 +1,10 @@
+wwwroot\docs\beiratkozas.docx
+wwwroot\docs\tavollet_igazolas.docx
+wwwroot\images\photo1.jpg
+wwwroot\images\photo2.jpg
+wwwroot\images\photo3.jpg
+wwwroot\images\photo4.jpg
+wwwroot\schema.sql
+wwwroot\script.js
+wwwroot\style.css
+wwwroot\index.html
